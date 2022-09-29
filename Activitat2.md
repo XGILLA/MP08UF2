@@ -17,6 +17,7 @@ Desactivem el llistat de directoris del servidor:
 ```
 sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
 ```
+![2cap](2.png)
 
 ## Instal·lar MariaDB:
 Instal·lem MariaDB:
