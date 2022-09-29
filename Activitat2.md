@@ -25,9 +25,11 @@ Instal·lem MariaDB:
 ```
 sudo apt-get install mariadb-server mariadb-client -y
 ```
+![3cap](3.png)
 
 I configurem la instal·lació:
 
 ```
 sudo mysql_secure_installation
 ```
+![4cap](4.png)
