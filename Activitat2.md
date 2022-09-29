@@ -10,6 +10,7 @@ Instal·lem el servidor Apache:
 ```
 sudo apt install apache2
 ```
+![1cap](1.png)
 
 Desactivem el llistat de directoris del servidor:
 
