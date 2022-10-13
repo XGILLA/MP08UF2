@@ -162,4 +162,6 @@ sudo service apache2 restart
 ```
 ![14cap](14.png)
 
-Ara per accedir busquem al nostre navegador web el domini que hem establert en el meu cas owncloud.xgl.com.
+Ara per accedir busquem al nostre navegador web el domini que hem establert en el meu cas owncloud.xgl.com 
+
+![15cap](15.png)
