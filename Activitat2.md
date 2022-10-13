@@ -70,3 +70,11 @@ Donem accés a l'usuari a la base de dades creada:
 GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;
 ```
 ![9cap](9.png)
+
+Apliquem cambis i guardem:
+
+```
+FLUSH PRIVILEGES;
+EXIT;
+```
+![10cap](10.png)
