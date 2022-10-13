@@ -124,10 +124,31 @@ unzip owncloud-complete-latest.zip
 sudo mv owncloud /var/www/html/owncloud/
 ```
 
-Cambiem el propietari...
+Canviem el propietari i permisos dels directoris d'owncloud. www-data perquè els pugui fer servir Apache, 755 perquè els pugui executar i llegir qualsevol usuari de Linux:
 
 ```
 sudo chown -R www-data:www-data /var/www/html/owncloud/
 sudo chmod -R 755 /var/www/html/owncloud/
 ```
 ![11cap](11.png)
+
+## Configurar Apache:
+
+Configurem Apache:
+
+```
+sudo nano /etc/apache2/sites-available/owncloud.conf
+```
+Hem de deixar un fitxer com el següent, però canviant el ServerName i el ServerAlias pels noms i àlies del nostre propi domini.
+![13cap](13.png)
+
+Habilitem owncloud i el mòdul rewrite:
+
+```
+- sudo a2ensite owncloud.conf
+- sudo a2enmod rewrite
+- sudo a2enmod headers
+- sudo a2enmod env
+- sudo a2enmod dir
+- sudo a2enmod mime
+```
