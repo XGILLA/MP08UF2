@@ -107,12 +107,12 @@ sudo nano /etc/php/7.4/apache2/php.ini
 Per trobar els parametres usem la comanda Ctrl + W
 
 Els valors que hem de canviar són els següents:
-  file_uploads = On
-  allow_url_fopen = On
-  memory_limit = 256M
-  upload_max_filesize = 100M
-  display_errors = Off
-  date.timezone = Europe/Madrid
+- file_uploads = On
+- allow_url_fopen = On
+- memory_limit = 256M
+- upload_max_filesize = 100M
+- display_errors = Off
+- date.timezone = Europe/Madrid
   
 ## Instal·lem Owncloud:
   
@@ -124,3 +124,10 @@ unzip owncloud-complete-latest.zip
 sudo mv owncloud /var/www/html/owncloud/
 ```
 
+Cambiem el propietari...
+
+```
+sudo chown -R www-data:www-data /var/www/html/owncloud/
+sudo chmod -R 755 /var/www/html/owncloud/
+```
+![11cap](11.png)
