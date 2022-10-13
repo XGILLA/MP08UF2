@@ -153,3 +153,12 @@ Habilitem owncloud i el mòdul rewrite:
 - sudo a2enmod dir
 - sudo a2enmod mime
 ```
+![12cap](12.png)
+
+Reiniciem Apache:
+
+```
+sudo service apache2 restart
+```
+![14cap](14.png)
+
