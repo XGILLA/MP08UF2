@@ -33,3 +33,10 @@ I configurem la instal·lació:
 sudo mysql_secure_installation
 ```
 ![4cap](4.png)
+
+Per ultim reiniciem el servidor MariaDB
+
+```
+sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart
+```
+![5cap](5.png)
