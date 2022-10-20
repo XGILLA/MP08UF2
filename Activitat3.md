@@ -20,6 +20,7 @@ apache2ctl -S
 **3. Encriptacio de punt a punt**
 - Fes una petita descripció de cada un d'ells.
 
+**1: **
 
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
 
