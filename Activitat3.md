@@ -40,19 +40,23 @@ apache2ctl -S
 
 - I la d'Owncloud Standard?
 
+**Llicència comercial ownCloud per als mòduls empresarials i empresarials d'ownCloud Server**
 
 - Es poden veure videos en Streaming directament des de Owncloud?
 
+**Si**
 
 - Es poden connectar directoris de Google Drive a Owncloud?
 
+**Si**
 
 - I Dropbox?
 
+**Si**
 
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
-
+**Si, anomenat ClamAV**
 
 
 **3.4.-** Mostra els següents canvis de paràmetres d'usuari:
