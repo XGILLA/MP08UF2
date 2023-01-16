@@ -10,7 +10,7 @@
 3. ``` sudo mysql -u root -p ```
 
 Per ultim queda instal·lar PHP:
-1. sudo apt install php libapache2-mod-php php-mysql
+1. ``` sudo apt install php libapache2-mod-php php-mysql ```
 2. Editarem el següent directori: /etc/apache2/mods-enabled/dir.conf
 ![image](https://user-images.githubusercontent.com/107154929/212700217-a37925e4-3203-4c7c-ae76-0495809ebcf1.png)
 3. ``` sudo service apache2 restart ```
@@ -31,11 +31,11 @@ wget https://download.moodle.org/download.php/direct/stable38/moodle-latest-38.z
 
 ``` sudo chown www-data:www-data moodledata/ ```
 ## Per continuar configurem la BDD:
-5. mysql -u root -p
-6. CREATE USER 'moodlemanager'@'localhost' IDENTIFIED BY 'managermoodle';
-7. CREATE DATABASE moodle;
-8. GRANT ALL PRIVILEGES ON moodle.* TO 'moodlemanager'@'localhost';
-FLUSH PRIVILEGES;
+5. ``` mysql -u root -p ```
+6. ``` CREATE USER 'moodlemanager'@'localhost' IDENTIFIED BY 'managermoodle'; ```
+7. ``` CREATE DATABASE moodle; ```
+8. ``` GRANT ALL PRIVILEGES ON moodle.* TO 'moodlemanager'@'localhost'; ```
+``` FLUSH PRIVILEGES; ```
 ## Per finalitzar configurarem Moodle:
 1. ipdelamaquina/moodle
 ![image](https://user-images.githubusercontent.com/107154929/212704709-8e4c6b6b-5c07-48f0-9b84-5d926065074a.png)
