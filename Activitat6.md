@@ -12,3 +12,6 @@
 
 4. Per ultim aqui crearem tots els cursos, categories i subcategories. Ens te que quedar com a la imatge:
 ![image](https://user-images.githubusercontent.com/107154929/213469929-8b30284b-8a49-43a5-8265-1355961cfa8d.png)
+
+RESULTAT:
+![image](https://user-images.githubusercontent.com/107154929/213470361-fd4b4b00-b81c-429b-ade2-cb6eef37f115.png)
