@@ -73,9 +73,11 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 12. Perquè serveixen?
 
 13. Què són els grups?
+
 -Els grups son classes per exemple: Grup A = Classe A
 
 14. Perquè serveixen?
+
 - Per agrupar alumnes o profesors a les seves clases
 
 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
