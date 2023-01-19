@@ -57,14 +57,26 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 ![image](https://user-images.githubusercontent.com/107154929/213476150-17cc2be3-ca75-45b5-aaa7-928ef2c7f0c9.png)
 
 10. Mostra l'apartat Participants de cada curs.
+![image](https://user-images.githubusercontent.com/107154929/213478340-4853e806-0533-438c-a180-42e59efef481.png)
+![image](https://user-images.githubusercontent.com/107154929/213478428-75502f40-dae7-4137-b221-1f21e05ca7fd.png)
+![image](https://user-images.githubusercontent.com/107154929/213478742-dc8acaca-e7b6-460b-9f9d-300704b8d7bf.png)
+![image](https://user-images.githubusercontent.com/107154929/213478884-49aaaadb-a12e-4605-a581-7e9ffbaf90bd.png)
+![image](https://user-images.githubusercontent.com/107154929/213478936-63f71728-38a6-4736-95ae-e4e2c7e1d08c.png)
+![image](https://user-images.githubusercontent.com/107154929/213479017-e5bb3bc6-dd70-4363-8eaa-df6e25154b2c.png)
+![image](https://user-images.githubusercontent.com/107154929/213479089-d1fed79e-1298-4c5c-bb74-83cc7a59c587.png)
+![image](https://user-images.githubusercontent.com/107154929/213479212-51acfa15-1017-4c11-af98-2055354ac9d4.png)
+![image](https://user-images.githubusercontent.com/107154929/213479153-0908be43-c2ad-40cf-9cff-3642d6a95cf8.png)
 
 11. Què són les Cohorts? 
+- Les cohorts són grups a tota l'amplada del lloc o de tota una categoria de cursos. El propòsit de les cohorts és permetre a tots els membres de la cohort ser inscrits (matriculats) fàcilment en un curs. Alternativament, una cohort pot ser inscrita (matriculada) manualment en un curs.
 
 12. Perquè serveixen?
 
 13. Què són els grups?
+-Els grups son classes per exemple: Grup A = Classe A
 
 14. Perquè serveixen?
+- Per agrupar alumnes o profesors a les seves clases
 
 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
-
+![image](https://user-images.githubusercontent.com/107154929/213479895-a181a5d4-cc0b-4dcd-a25d-daf271c5f84e.png)
