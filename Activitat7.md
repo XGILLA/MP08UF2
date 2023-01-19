@@ -35,8 +35,11 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 ![image](https://user-images.githubusercontent.com/107154929/213473914-5eb47871-82ba-41b0-8006-bc2f2e38df34.png)
 
 5.  Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
-
 ![image](https://user-images.githubusercontent.com/110727546/205681118-13764074-331b-42b7-b051-38f816f8b931.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/107154929/213474311-5015d3c4-0cd9-4cf2-9203-54fcaad32fde.png)
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
