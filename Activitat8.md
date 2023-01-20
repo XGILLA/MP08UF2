@@ -48,20 +48,28 @@
 ![image](https://user-images.githubusercontent.com/107154929/213488256-d4faa223-73ec-43e3-bb75-8b4deed31aaa.png)
 
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
+![image](https://user-images.githubusercontent.com/107154929/213743053-2d9d8af5-f647-4e2e-89c1-ec70a795e8f1.png)
 
 - Fes que els alumnes contestin la tasca (mínim 3).
+![image](https://user-images.githubusercontent.com/107154929/213745143-4760e9c2-c7ca-4650-98d7-c94c3919ef0b.png)
 
 - Qualifica la tasca de l'alumnat.
+![image](https://user-images.githubusercontent.com/107154929/213745272-8b2658ad-e16d-4809-978c-b5af728c3091.png)
 
 - Mostra les qualificacions de l'alumnat.
+![image](https://user-images.githubusercontent.com/107154929/213745286-f426b64a-b91f-45cd-b406-76ea1af03c30.png)
 
 - Com a perfil d'alumne mostra la teva qualificació.
+![image](https://user-images.githubusercontent.com/107154929/213743720-a0665dbc-6fa4-455a-8565-e81063043b5d.png)
 
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+![image](https://user-images.githubusercontent.com/107154929/213745913-2985a3f8-0fbb-462a-bdf4-91d35dafa837.png)
 
 - Com a alumne/a contesta la consulta.
+![image](https://user-images.githubusercontent.com/107154929/213745973-178238dc-0bee-4bb8-b9b9-064c02baa5ab.png)
 
 - Com a professor mostra les contestacions de la consulta.
+![image](https://user-images.githubusercontent.com/107154929/213746115-beb30346-78c2-4bdf-a5bb-b8d9f28bf378.png)
 
 # Seguretat del lloc:
 
