@@ -77,10 +77,13 @@
 
 
 - Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho [així](https://moodle.org/mod/forum/discuss.php?d=323745).
+![image](https://user-images.githubusercontent.com/107154929/213749488-025e167f-e021-4cdc-92bf-afc5c0e0881c.png)
+
 - Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
   - Tinguin mínim 10 caràcters.
   - Tinguin 2 dígits.
   - Tinguin 3 maiúscules.
+![image](https://user-images.githubusercontent.com/107154929/213749906-46f7d912-3e70-4bc8-b854-b6d72b9cc2f2.png)
 
 # Plugins:
 
